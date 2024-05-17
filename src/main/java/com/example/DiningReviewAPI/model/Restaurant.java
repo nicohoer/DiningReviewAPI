@@ -1,14 +1,11 @@
 package com.example.DiningReviewAPI.model;
-
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
-import jakarta.persistence.Table;
 import jakarta.persistence.Entity;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 
-import java.util.ArrayList;
 @Entity
 @Getter
 @Setter

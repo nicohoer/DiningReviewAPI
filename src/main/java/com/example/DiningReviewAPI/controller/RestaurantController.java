@@ -1,9 +1,7 @@
 package com.example.DiningReviewAPI.controller;
 
-
 import com.example.DiningReviewAPI.model.Restaurant;
 import com.example.DiningReviewAPI.repository.RestaurantRepository;
-import com.example.DiningReviewAPI.repository.ReviewRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
